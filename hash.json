@@ -1,9 +1,5 @@
 [
     {
-      "src": "auth_worker.js",
-      "hash": "a2229b823cc9c5a5420776dd54da93569f54909958be7b7f94812c7d6854165bffdd8b841872e7bf1089a260aab7c79874e0fbb0e2d2266d1b1889b86464d420"
-    },
-    {
       "src": "fonts.json",
       "hash": "62fea5426bd10087f057e2b4a5d88e9f06c79236e9f68598fff85d041fd6f2c963736a5fbf18d3a2e1e48a1968bbc659e1809d645ab915ea8a7314cfbf290bd4"
     },
